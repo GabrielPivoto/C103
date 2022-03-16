@@ -3,9 +3,7 @@
 # C103
 Repositório para a monitoria de C103
 
-<h4 align="center"> 
-	Autor :pencil2:
-</h4>
+### Autor :pencil2:
 
 <p align="center">
  <a href="https://github.com/GabrielPivoto">Gabriel Pivoto</a> 
