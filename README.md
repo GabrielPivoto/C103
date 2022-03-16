@@ -5,7 +5,7 @@ Repositório para a monitoria de C103
 
 ### Autor :pencil2:
 
-<p align="center">
+<p align="right">
  <a href="https://github.com/GabrielPivoto">Gabriel Pivoto</a> 
 </p>
 
